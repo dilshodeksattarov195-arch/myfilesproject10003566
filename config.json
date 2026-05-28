@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsvender",
+        "uuid": 17473400,
+        "checksum": "opn2zo"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
